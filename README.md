@@ -3,6 +3,13 @@
 - 📫 How to reach me <a href="https://www.linkedin.com/in/emin-palaz-702745209" target="_blank">Linkedin</a>
 
 
+
+
+
+
+
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eminpalaz01&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
