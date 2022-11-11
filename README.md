@@ -3,8 +3,13 @@
 - 📫 How to reach me <a href="https://www.linkedin.com/in/emin-palaz-702745209" target="_blank">Linkedin</a>
 
 
-
-
+<h1> </h1>
+<h1> </h1>
+<h1> </h1>
+<h1> </h1>
+<h1> </h1>
+<h1> </h1>
+<h1> </h1>
 
 
 
