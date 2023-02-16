@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Emin
 - 🌱 I’m currently learning React.js
-- 📫 How to reach me <a href="https://www.linkedin.com/in/emin-palaz-702745209" target="_blank">Linkedin</a>
+- 📫 How to reach me <a href="mailto:eminpalaz01@gmail.com">Mail</a>
