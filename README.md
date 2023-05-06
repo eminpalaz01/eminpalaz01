@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Emin
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning Vue.js and Node.js
 - 📫 How to reach me <a href="mailto:eminpalaz01@gmail.com">Mail</a>
